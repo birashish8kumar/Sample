@@ -1,2 +1,2 @@
 # Sample
-git training
+gbjbit training
